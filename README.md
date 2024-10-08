@@ -1,8 +1,9 @@
 ### Hi there 👋
-I'm juseice, just a student now. Currently learning UE4 but still unable to program something on my own.<br>
-I was working on translating TESV's mods into Chinese. But after Skyrim Citizen closed, I stop working on it.<br>
-Paradox games fans! Also want to mod some games like Stellaris and Crusader Kings. <br>
-Who knows what will happen in the future.
+I'm juseice, just a student now.    
+
+Paradox games fans! Also want to mod some games like Stellaris and Crusader Kings.    
+
+Working on VR now.
 
 <!--
 **juseice/juseice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
